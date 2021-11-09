@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-26 16:40+0000\n"
+"Last-Translator: Seok Hyun Ga <shga89@naver.com>\n"
+"Language-Team: Korean <http://translate.pkp.sfu.ca/projects/ojs/manager/"
+"ko_KR/>\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "manager.distribution.publishingMode"
+msgstr "출판 모드"
+
+msgid "manager.distribution.publication"
+msgstr "출판"
+
+msgid "manager.distribution.access"
+msgstr "액세스"
+
+msgid "manager.distribution.copyrightYearBasis.submission"
+msgstr "기사의 발행일 사용"
+
+msgid "manager.distribution.copyrightYearBasis.issue"
+msgstr "발행물의 발행일 사용"
+
+msgid "manager.distribution.copyrightYearBasis.description"
+msgstr ""
+"기사에 대한 기본 저작권 날짜를 선택하는 방법을 선택합니다. 이 기본값은 사례별로 재정의 할 수 있습니다. \"즉시  게시\"하는 경우 "
+"발행물의 게시 날짜를 사용하지 마십시오."
